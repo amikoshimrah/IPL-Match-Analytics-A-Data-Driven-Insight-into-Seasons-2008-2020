@@ -19,18 +19,5 @@ Languages: Python
 Libraries: pandas, numpy, matplotlib, seaborn
 
 Datasets:
-
 IPL Matches 2008-2020.csv
-
 IPL Ball-by-Ball 2008-2020.csv
-
-📁 Folder Structure
-📦 IPL-Analytics
- ┣ 📄 Mini_Project_IPL.ipynb
- ┣ 📄 IPL Matches 2008-2020.csv
- ┣ 📄 IPL Ball-by-Ball 2008-2020.csv
- ┗ 📄 README.md
-🚀 How to Use
-1. Clone the repository
-2. Open Mini_Project_IPL.ipynb in Jupyter Notebook
-3. Run all cells to see the data exploration and visualizations
